@@ -1,0 +1,11 @@
+2020-03-05 08:18:12 INFO  Main :15 - Initial list:
+2020-03-05 08:18:12 INFO  Main :16 - []
+2020-03-05 08:18:12 INFO  Main :17 - How many elements do you want to add
+2020-03-05 08:18:28 INFO  Main :19 - enter elements:
+2020-03-05 08:18:32 INFO  Main :25 - Total list after adding elements:
+2020-03-05 08:18:32 INFO  Main :26 - [2,3,4]
+2020-03-05 08:18:32 INFO  Main :27 - enter index to be removed
+2020-03-05 08:18:37 INFO  Main :31 - Total list after removing elements:[2,3]
+2020-03-05 08:18:37 INFO  Main :34 - value at index 0 is 2
+2020-03-05 08:18:37 INFO  Main :36 - value at index 1 is:3
+2020-03-05 08:18:37 INFO  Main :39 - total size2
